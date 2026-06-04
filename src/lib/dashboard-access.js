@@ -61,7 +61,7 @@ const routeMatchersByRole = {
     /^\/dashboard\/paciente\/[^/]+$/,
     /^\/dashboard\/FichasPacientes\/[^/]+$/,
     /^\/dashboard\/NuevaFicha\/[^/]+$/,
-    /^\/dashboard\/EdicionFicha\/[^/]+$/,
+    // /^\/dashboard\/EdicionFicha\/[^/]+$/,
     /^\/dashboard\/datosEmpresa$/,
     /^\/dashboard\/portadaEdit$/,
     /^\/dashboard\/publicacionesTituloDescripcion$/,
